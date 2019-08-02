@@ -1,4 +1,5 @@
 #!/bin/sh
+# w. grotophorst
 # make a backup of the HR file
 cp vgrgmuhr.dat vgrgmuhr.was
 # first extract all gnumbers if medm is in the code (e.g., ro medm)
