@@ -1,5 +1,5 @@
 
-These files take SIF files from Voyager and produce user files ready for import to Alma.
+These files take SIF files from Voyager and produce files ready for import to Alma.  We rewrite the fixed-length SIF file into XML.
 
 - **sis2alma.pl** - converts our student information system records for Alma import.
 - **hr2alma.pl** - converts our HR (faculty & staff) records for Alma import.
